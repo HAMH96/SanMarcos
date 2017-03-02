@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SanMarcosApp</string>
+    <string name="username">Usuario</string>
+    <string name="titulo">San Marcos</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciarses">Iniciar Sesión</string>
+    <string name="registrar">Registrarse</string>
+    <string name="rptPassword">Repetir Contraseña</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cerrarSes">Cerrar Sesión</string>
+    <string name="miPerfil">Mi Perfil</string>
+</resources>
